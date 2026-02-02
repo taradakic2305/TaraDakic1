@@ -1,6 +1,6 @@
 # TaraDakic1
 **Hi, I’m Tara Dakić! 👋**
-I’m currently learning Git and version control through HWB, exploring repos, branches, and pull requests.
+I’m currently learning Git and version control through HW1, exploring repos, branches, and pull requests.
 I played Division 1 tennis 🎾, earned my Bachelor’s in Finance from Wagner College, and… honestly, I’m just figuring things out as I go 😅.
 
 ## Fun fact
